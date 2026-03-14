@@ -2,7 +2,7 @@
 A modern, high-fidelity recreation of the classic browser-based "No Internet" Dinosaur Game. This project focuses on smooth physics, collision detection, and a clean, minimalist pixel-art aesthetic.
 
 
-![Image](https://github.com/Ritesh-Gupta-op/dino-gameclone/issues/2#issue-4076017684)
+
 
 🚀 Features
 Classic Gameplay: Infinite runner mechanics with increasing difficulty over time.
