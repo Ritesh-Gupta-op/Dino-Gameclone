@@ -1,10 +1,11 @@
-🦖 Dino Game Clone
+# Dino Game Clone🦖
 A modern, high-fidelity recreation of the classic browser-based "No Internet" Dinosaur Game. This project focuses on smooth physics, collision detection, and a clean, minimalist pixel-art aesthetic.
+# Screenshots:
+<img width="1352" height="583" alt="dino game" src="https://github.com/user-attachments/assets/63d36e68-c36f-449c-94d7-a58077f1b9d1" />
 
-
-
-
-🚀 Features
+# URL
+# http://localhost:5173/ (fork and run locally)
+# Features🚀
 Classic Gameplay: Infinite runner mechanics with increasing difficulty over time.
 
 High Score Tracking: Keeps track of your best runs with a local high score counter.
